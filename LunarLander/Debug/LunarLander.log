@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\fresh\source\repos\LunarLander\Entity.h(89,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\fresh\source\repos\LunarLander\Entity.h(90,55): warning C4244: 'return': conversion from 'const float' to 'const int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\fresh\source\repos\LunarLander\main.cpp(43,29): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\fresh\source\repos\LunarLander\main.cpp(138,23): warning C4018: '<': signed/unsigned mismatch
+  LunarLander.vcxproj -> C:\Users\fresh\source\repos\LunarLander\Debug\LunarLander.exe
